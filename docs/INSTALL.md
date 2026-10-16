@@ -17,7 +17,7 @@
 ## 2. 安装
 
 ```bash
-git clone --recurse-submodules https://github.com/LightDevCoder/dsh-routing-suite.git
+git clone --recurse-submodules https://github.com/light-cheng/dsh-routing-suite.git
 cd dsh-routing-suite
 chmod +x install.sh
 ./install.sh
