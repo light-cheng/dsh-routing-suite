@@ -2,13 +2,13 @@
 
 [中文](README.md) | English
 
-> A personal distribution based on [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) (fork: LightDevCoder/dsh-routing-suite).
+> A personal distribution based on [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) (fork: light-cheng/dsh-routing-suite).
 > Upstream is retained as `upstream`, and community improvements are synchronized as needed (see [docs/UPSTREAM.md](docs/UPSTREAM.md)).
 
 ## Quick Start (macOS / Linux)
 
 ```bash
-git clone --recurse-submodules https://github.com/LightDevCoder/dsh-routing-suite.git
+git clone --recurse-submodules https://github.com/light-cheng/dsh-routing-suite.git
 cd dsh-routing-suite
 chmod +x install.sh
 ./install.sh
@@ -19,7 +19,7 @@ After installation → **Restart DSH (web service)** → Select `Router Standard
 For Windows users using [install.ps1](install.ps1) (PowerShell):
 
 ```powershell
-git clone --recurse-submodules https://github.com/LightDevCoder/dsh-routing-suite.git
+git clone --recurse-submodules https://github.com/light-cheng/dsh-routing-suite.git
 cd dsh-routing-suite
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```

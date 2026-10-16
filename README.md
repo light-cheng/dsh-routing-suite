@@ -2,13 +2,13 @@
 
 [中文](README.md) | [English](README.en.md)
 
-> 这是基于 [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) 的个人维护版本（fork：LightDevCoder/dsh-routing-suite）。
+> 这是基于 [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) 的个人维护版本（fork：light-cheng/dsh-routing-suite）。
 > 原仓库保留为 `upstream`，公共改进会按需同步（见 [docs/UPSTREAM.md](docs/UPSTREAM.md)）。
 
 ## Quick Start（macOS / Linux）
 
 ```bash
-git clone --recurse-submodules https://github.com/LightDevCoder/dsh-routing-suite.git
+git clone --recurse-submodules https://github.com/light-cheng/dsh-routing-suite.git
 cd dsh-routing-suite
 chmod +x install.sh
 ./install.sh
@@ -19,7 +19,7 @@ chmod +x install.sh
 Windows 用户使用 [install.ps1](install.ps1)（PowerShell）：
 
 ```powershell
-git clone --recurse-submodules https://github.com/LightDevCoder/dsh-routing-suite.git
+git clone --recurse-submodules https://github.com/light-cheng/dsh-routing-suite.git
 cd dsh-routing-suite
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
